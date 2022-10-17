@@ -418,7 +418,7 @@ LIST OF THE MACROS COMMANDS
 F1 = Puts CEO;
 F2 = Spams BST;
 F3= Spams armour (CEO);
-F4 = Refuel all ammo;
+F4 = Refuels all ammo;
 F5 = Ghost ORG;
 F6 = Corrupt police;
 F7 = Puts MC;
