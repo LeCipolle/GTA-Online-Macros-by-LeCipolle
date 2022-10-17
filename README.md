@@ -1,7 +1,7 @@
 # GTA-Online-Macros-by-LeCipolle
 An AutoHotkey set of macros made for GTA Online 
 
-I state that I have taken some part of the code from other macros created by other users of which 
+I state that I have taken inspiration for the code from other macros created by other users of which 
 unfortunately I dont know who they are on GitHub :(
 
 
